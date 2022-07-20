@@ -1,10 +1,6 @@
 # RookieDB
 
-![The official unofficial mascot of the class projects](images/derpydb-small.jpg)
-
 ## Overview
-
-## The code
 
 The following is a brief overview of each of the major sections of the codebase.
 
